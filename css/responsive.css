@@ -1,0 +1,145 @@
+
+@media screen and (min-width: 1200px) {
+  
+}
+@media screen and (min-width: 992px) {
+  
+}
+@media screen and (min-width: 768px) {
+  
+}
+@media screen and (max-width: 421px) {
+   
+}
+@media screen and (min-width: 372px) {
+
+}
+@media only screen and (orientation: landscape) {
+  
+}
+@media screen and (max-width: 900px) and (min-width: 600px) {
+  
+}
+/* When the width is between 600px and 900px OR above 1100px - change the appearance of <div> */
+@media screen and (max-width: 900px) and (min-width: 600px), (min-width: 1100px) {
+  
+}
+
+@media screen and (max-width: 768px){
+
+	body{
+		text-align: center;
+		right: 0%;
+
+	}
+	#banner .banner_left{
+		margin-top: 60px;
+		padding: 0;
+	}
+	#banner .banner_section{
+		padding: 30px 0;
+	}
+	#banner .banner_section p{
+		text-align: center;
+	}
+	#banner .banner_section h1{
+		text-align: center;
+	}
+	#banner .banner_section .line{
+		display: none;
+	}
+	#banner{
+		height: auto;
+	}
+	#social_icon{
+		padding: 20px;
+		text-align: center;
+	}
+	#social_icon .icons_list{
+		text-align: center;
+	}
+	#social_icon .icons_list ul li a{
+		margin-left: 0;
+	}
+	#social_icon .left_content {
+	    text-align: center;
+	}
+	#features .features_area{
+		padding: 20px 0;
+	}
+	#features .features_area img{
+		margin-top:30px;
+	}
+	#features .features_area .tab_list ul {
+	    margin-left: -45px;
+	    display: inline block;
+	    display: inline-flex;
+	}
+	#features .features_area .tab_list{
+		text-align: center;
+	}
+	#sublist{
+		padding: 20px;
+		margin-left: 0;
+	}
+	#sublist .sublist_icon_section{
+		margin-left: 0;
+	}
+	#sublist .sublist_icon_section ul{
+		padding-left: 0;
+	}
+	#sublist .sublist_icon_section ul li {
+		text-align: center;
+	}
+	#sublist .sublist_icon_section ul li i{
+		margin-right: 0;
+	}
+	#sublist .sublist_right_section .line{
+		display: none;
+	}
+	#standard_picture {
+	    padding: 20px 0;
+	}
+	.standard_picture_left_section .line{
+		display: none;
+	}
+	#why_this {
+	    padding: 20px 0;
+	}
+	#why_this .why_this_upper .line{
+		display: none;
+	}
+	#pricing {
+	    padding: 20px 0;
+	}
+	#pricing .pricing_list_one .card {
+	    margin-top: 15px;
+	}
+	#pricing .pricing_list .two {
+	    margin-top: 0;
+	}
+	#pricing .pricing_upper .line {
+	    display: none;
+	}
+	#happy_customer {
+	    padding: 20px;
+	}
+	#happy_customer .happy_customer_header .line {
+	    display: none;
+	}
+  	#happy_customer .customer_comment {
+	    margin-top: 0px;
+	    padding-left: 0px;
+	}
+  	#stylish_section .stylish {
+    	padding: 30px;
+	}
+	#stylish_section .stylish_section_content .line {
+	    display: none;
+	}
+	#contact .contact_title .line{
+  		display: none;
+  	}
+}
+
+
